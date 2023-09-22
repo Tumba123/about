@@ -131,7 +131,3 @@ body {
     word-wrap: break-word; /* Enable text wrapping */
     background-color: rgba(100, 100, 100, 0.25);
   }
-
-  .mailto {
-    color: white;
-  }
